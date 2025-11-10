@@ -214,7 +214,6 @@ else:
 # ---------------------------- FOOTER ----------------------------
 st.markdown("---")
 footer = """<div class="footer">
-    <p style="font-size: 1.2rem; margin-bottom: 0.5rem;">💼 Developed by <b>Team Data Disruptors_007</b></p>
     <p style="margin: 0.5rem 0;">
         <a href="https://www.linkedin.com/in/rahulx2001" target="_blank">👨‍💻 Rahul Kumar Singh</a>
     </p>
