@@ -102,9 +102,8 @@ a:hover, a:active {
 <div class="footer">
     <p> Developed by <b> Team Data Disruptors_007</b> </p>
     <p> 
-        <a href="https://www.linkedin.com/in/richa-kumari-213891215" target="_blank">Richa Kumari</a>, 
-        <a href="https://www.linkedin.com/in/anandnair99" target="_blank">Anand Nair</a>, 
-        <a href="http://www.linkedin.com/in/v-n-nikhilesh-yadapaka-1ab422237" target="_blank">Nikhilesh</a>        
+        <a href="https://www.linkedin.com/in/rahulx2001" target="_blank">Rahul Kumar Singh </a>, 
+              
     </p>
 </div>
 """
