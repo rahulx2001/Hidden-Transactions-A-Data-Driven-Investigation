@@ -4,7 +4,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulx2001)
 [![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahulkumarsingh-portfolio.vercel.app/)
 
-**🚀 [View Live Dashboard](https://rahulx2001-hidden-transactions-a-data-driven-invest-main-kjsxqd.streamlit.app)**
+<br>
+
+### 🔗 [**View Live Dashboard →**](https://rahulx2001-hidden-transactions-a-data-driven-invest-main-kjsxqd.streamlit.app)
+
+<br>
 
 A modern Streamlit-based fraud detection and financial crime analysis dashboard.
 
